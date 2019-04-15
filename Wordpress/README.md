@@ -59,7 +59,7 @@ to day work.
 ## Questions?
 
 Fear not! You can send us an email to Diego [(diego@pixel2html.com)](mailto:diego@pixel2html.com) 
-with the subject:
+or Maureen [(maureen@pixel2html.com)](mailto:maureen@pixel2html.com) with the subject:
 **'Wordpress Test Project'**.
 
 Happy Coding!

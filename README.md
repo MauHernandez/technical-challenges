@@ -5,4 +5,4 @@ Here is the list of the technical challenges that every candidate needs to go th
 ## Questions?
 
 Fear not! You can send us an email to Diego [(diego@pixel2html.com)](mailto:diego@pixel2html.com)
-or Miguel [(miguel@pixel2html.com)](mailto:miguel@pixel2html.com).
+or Maureen [(maureen@pixel2html.com)](mailto:maureen@pixel2html.com).

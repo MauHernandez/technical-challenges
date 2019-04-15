@@ -107,8 +107,8 @@ Here are some links that might be helpful:
 ## Questions?
 
 Fear not! You can send us an email to Diego [(diego@pixel2html.com)](mailto:diego@pixel2html.com)
-or Miguel [(miguel@pixel2html.com)](mailto:miguel@pixel2html.com) with the subject:
-**'Front-end Test Project'**.
+or Maureen [(maureen@pixel2html.com)](mailto:maureen@pixel2html.com) with the subject:
+**'React Test Project'**.
 
 Happy Coding!
 
